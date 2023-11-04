@@ -1,4 +1,4 @@
-# Documentation
+# Documentation [link](https://serpapi.com/google-scholar-api)
 # **Google Scholar API**
 
 [API uptime100.000%](https://serpapi.com/status/google_scholar)
